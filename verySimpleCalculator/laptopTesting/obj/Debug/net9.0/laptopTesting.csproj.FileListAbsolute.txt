@@ -1,0 +1,14 @@
+C:\Users\dvele\OneDrive\Documents\c#Laptop\laptopTesting\laptopTesting\bin\Debug\net9.0\laptopTesting.exe
+C:\Users\dvele\OneDrive\Documents\c#Laptop\laptopTesting\laptopTesting\bin\Debug\net9.0\laptopTesting.deps.json
+C:\Users\dvele\OneDrive\Documents\c#Laptop\laptopTesting\laptopTesting\bin\Debug\net9.0\laptopTesting.runtimeconfig.json
+C:\Users\dvele\OneDrive\Documents\c#Laptop\laptopTesting\laptopTesting\bin\Debug\net9.0\laptopTesting.dll
+C:\Users\dvele\OneDrive\Documents\c#Laptop\laptopTesting\laptopTesting\bin\Debug\net9.0\laptopTesting.pdb
+C:\Users\dvele\OneDrive\Documents\c#Laptop\laptopTesting\laptopTesting\obj\Debug\net9.0\laptopTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dvele\OneDrive\Documents\c#Laptop\laptopTesting\laptopTesting\obj\Debug\net9.0\laptopTesting.AssemblyInfoInputs.cache
+C:\Users\dvele\OneDrive\Documents\c#Laptop\laptopTesting\laptopTesting\obj\Debug\net9.0\laptopTesting.AssemblyInfo.cs
+C:\Users\dvele\OneDrive\Documents\c#Laptop\laptopTesting\laptopTesting\obj\Debug\net9.0\laptopTesting.csproj.CoreCompileInputs.cache
+C:\Users\dvele\OneDrive\Documents\c#Laptop\laptopTesting\laptopTesting\obj\Debug\net9.0\laptopTesting.dll
+C:\Users\dvele\OneDrive\Documents\c#Laptop\laptopTesting\laptopTesting\obj\Debug\net9.0\refint\laptopTesting.dll
+C:\Users\dvele\OneDrive\Documents\c#Laptop\laptopTesting\laptopTesting\obj\Debug\net9.0\laptopTesting.pdb
+C:\Users\dvele\OneDrive\Documents\c#Laptop\laptopTesting\laptopTesting\obj\Debug\net9.0\laptopTesting.genruntimeconfig.cache
+C:\Users\dvele\OneDrive\Documents\c#Laptop\laptopTesting\laptopTesting\obj\Debug\net9.0\ref\laptopTesting.dll
